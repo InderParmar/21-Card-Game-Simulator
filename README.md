@@ -30,6 +30,11 @@ This project is a simulation of the popular card game "21", developed as part of
 - **Multiplayer Support**: Extend the game to support more than two players, either locally or over a network.
 - **Additional Game Modes**: Introduce new modes with different rules or card values for varied gameplay.
 
+## UML
+![image](https://github.com/InderParmar/21-Card-Game-Simulator/assets/114940498/75eeada1-a72f-4727-a331-2896efcaef2a)
+ 
+
+
 ---
 
 For more information or contributions, please feel free to contact me or submit a pull request.
